@@ -22,7 +22,7 @@
     - Review Tasks and ensure all tasks are on calendar
     - Review email 
     - Assign any new email tasks as necessary (and add to calendar) 
-    - Work through projects based on calendar
+    - Work through projects based on calendar, not whims
 
 ## Lunch
 
