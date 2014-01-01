@@ -14,7 +14,7 @@
 - Exercise
     - One set of pushups
     - One set of situps
-    - 500 meters on the rowing machine
+    - 500-2000 meters on the rowing machine
 - Breakfast
 - Work (early)
     - Review all meetings for the day
@@ -27,7 +27,7 @@
 ## Lunch
 
 - Eat
-- Read for 30 minutes in current work book from list
+- Read for 30 minutes in current work book from list (https://github.com/danielmiessler/Books)
 
 ## Afternoon
 
