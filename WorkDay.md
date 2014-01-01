@@ -1,4 +1,12 @@
-# Schedule
+# Weekly Preparation
+
+## Monday Morning
+
+- Review year goals and projects
+- Ensure all goals have their projects on the calendar for the week
+- Do not start "just working" on "whatever" without this
+ 
+# Daily Schedule
 
 ## Morning
 
@@ -11,8 +19,6 @@
 - Work (early)
     - Review all meetings for the day
     - Ensure all tasks are in Outlook Tasks
-    - Review goals
-    - Ensure all goals have their projects on calendar
     - Review Tasks and ensure all tasks are on calendar
     - Review email 
     - Assign any new email tasks as necessary (and add to calendar) 
