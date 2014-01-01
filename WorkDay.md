@@ -11,7 +11,20 @@
 - Work (early)
     - Review all meetings for the day
     - Ensure all tasks are in Outlook Tasks
-    - Review Tasks and ensure all today's tasks are on calendar
+    - Review goals
+    - Ensure all goals have their projects on calendar
+    - Review Tasks and ensure all tasks are on calendar
     - Review email 
+    - Assign any new email tasks as necessary (and add to calendar) 
+    - Work through projects based on calendar
+
+## Lunch
+
+- Eat
+- Read for 30 minutes in current work book from list
+
+## Afternoon
+
+- Continue working through projects on calendar schedule 
 
 
