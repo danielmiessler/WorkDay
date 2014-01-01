@@ -32,5 +32,3 @@
 ## Afternoon
 
 - Continue working through projects on calendar schedule 
-
-
